@@ -1,3 +1,0 @@
-[submodule "dev/video-gen/ControlNet"]
-	path = dev/video-gen/ControlNet
-	url = https://github.com/lllyasviel/ControlNet
